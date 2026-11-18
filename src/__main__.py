@@ -1,6 +1,3 @@
-def main() -> None:
-    print("integrations: стартовая точка входа")
+from src.runtime import main
 
-
-if __name__ == "__main__":
-    main()
+main()
